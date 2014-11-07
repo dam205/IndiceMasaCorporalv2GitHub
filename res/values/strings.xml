@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Indice de Masa Corporal v.2</string>
+    <string name="action_settings">Settings</string>
+    <string name="peso_text">Peso (kgs):</string>
+    <string name="altura_text">Altura (cm):</string>
+    <string name="calculo_imc_button">Calcular Indice de Masa Corporal</string>
+    <string name="log_tag">IMC_DEBUG</string>
+    <string name="oms_text">Clasificación de la OMS</string>
+    <string name="acercade">IES Fernando Wirtz - 2014</string>
+    <string name="boton_ok">OK</string>
+    <string name="text_button_acercade">Acerca De</string>
+    
+
+</resources>
